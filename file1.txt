@@ -3,4 +3,4 @@
 And somethinng
 good bye
 add line in file1
-Line user1
+Line user1 Russian (from branch add-future1)
