@@ -6,3 +6,4 @@ add line in file1
 Line user1 goood even (from branch master)
 ggvm(from branch master)
 another line from user1
+
